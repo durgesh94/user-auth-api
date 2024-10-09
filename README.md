@@ -1,8 +1,11 @@
 # user-auth-api
 
 ## Start local server
+- Clone repo on local machine
 ```git clone repo-url```
+- Install dependancies
 ```npm install```
+- Run application
 ```npm run dev```
 
 ## Endpoints
